@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <metadata>
+    <id>QlikSenseDesktop</id>
+    <title>QlikSenseDesktop</title>
+    <version>11.24</version>
+    <authors>Clint Carr</authors>
+    <owners>Qlik</owners>
+    <summary>Qlik Sense Desktop, a revolutionary self-service data visualization and discovery application designed for individuals and group collaboration.</summary>
+    <description>Create personalized, interactive data visualizations, reports and dashboards. Drag-and-drop makes integrating data from multiple sources easy. Use this free Windows application to discover more insights in your data in just five minutes.</description>
+    <projectUrl>http://qlik.com/en-au/products/qlik-sense/desktop</projectUrl>
+    <tags>visualization, analytics, qlik, sense, data</tags>
+    <licenseUrl>https://www.qlik.com/us/legal/license-terms/qlik-sense-license-agreement?_ga=2.212330972.99462413.1510545056-1984798158.1496806104</licenseUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance> <!-- or true if you require the user to accept the License before installing -->
+    <iconUrl>http://www.myapp.tld/logo.png</iconUrl>
+  </metadata>
+</package>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <metadata>
+    <id>QlikViewDesktop</id>
+    <title>QlikViewDesktop</title>
+    <version>12.20.20100</version>
+    <authors>Clint Carr</authors>
+    <owners>Qlik</owners>
+    <summary>Free guided analytics development platform. Seeing is believing.</summary>
+    <description>QlikView® Personal Edition is not a trial product—it is a full version of our powerful Qlik business discovery software.</description>
+    <projectUrl>https://www.qlik.com/us/try-or-buy/download-qlikview</projectUrl>
+    <tags>visualization, analytics, qlikview, data</tags>
+    <licenseUrl>https://www.qlik.com/us/legal/license-terms</licenseUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance> <!-- or true if you require the user to accept the License before installing -->
+    <iconUrl>http://www.myapp.tld/logo.png</iconUrl>
+  </metadata>
+</package>
